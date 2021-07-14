@@ -4,7 +4,7 @@
 
 **Course:** *Arquitetura de Sistemas de Software* ([ASSO](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272348)) | Software Architecture
 
-**Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)), Luís Cunha ([luispcunha](https://github.com/luispcunha)), Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira))
+**Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Gonçalo Marantes ([Marantesss](https://github.com/Marantesss)),João Matos ([joaonmatos](https://github.com/joaonmatos)), Luís Cunha ([luispcunha](https://github.com/luispcunha)), Ricardo Ferreira ([ricardojaferreira](https://github.com/ricardojaferreira))
 
 ---
 
