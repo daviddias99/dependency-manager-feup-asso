@@ -1,0 +1,11 @@
+node_modules
+Dockerfile
+Dockerfile.production
+.dockerignore
+.gitignore
+README.md
+.nuxt
+node_modules
+npm-debug.log
+app/node_modules
+app/npm-debug.log

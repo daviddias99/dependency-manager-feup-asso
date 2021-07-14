@@ -1,0 +1,51 @@
+{
+  "name": "dependency-manager",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "ASSO-LG",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "dev": "nodemon index.ts",
+    "build": "tsc",
+    "lint": "eslint src --ext .ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4",
+    "commander": "^2.20.3",
+    "debug": "^4.3.1",
+    "filing-cabinet": "^3.0.0",
+    "chalk": "^4.1.0",
+    "commondir": "^1.0.1",
+    "detective-amd": "^3.0.1",
+    "detective-cjs": "^3.1.1",
+    "detective-es6": "^2.1.0",
+    "detective-less": "^1.0.2",
+    "detective-postcss": "^4.0.0",
+    "detective-sass": "^3.0.1",
+    "detective-scss": "^2.0.1",
+    "detective-stylus": "^1.0.0",
+    "detective-typescript": "^7.0.0",
+    "graphviz": "0.0.9",
+    "ora": "^5.1.0",
+    "pluralize": "^8.0.0",
+    "precinct": "^7.0.0",
+    "pretty-ms": "^7.0.0",
+    "rc": "^1.2.7",
+    "typescript": "^3.9.5",
+    "walkdir": "^0.4.1"
+
+  }
+}

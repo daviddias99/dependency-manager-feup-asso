@@ -1,0 +1,97 @@
+/*
+ * Define colors
+ */
+:root {
+  --main-blue: #1E88E5;
+  --main-dark-blue: #0969bd;
+  --main-grey-opaque: rgba(135, 139, 143, 0.5);
+}
+
+html {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/**
+ * some basic UI components
+ */
+.button {
+  border: 0;
+  border-radius: 0.25rem;
+  background: var(--main-blue);
+  color: white;
+  font-size: 1rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  transition: all 100ms;
+}
+
+.button:hover {
+  background: var(--main-dark-blue);
+}
+
+/**
+ * some basic form components
+ */
+.input-text {
+  border-bottom: 0.1rem solid #1E88E5;
+  margin: 0.5rem 0rem;
+  font-size: 16px;
+}
+
+/**
+ * typography
+ */
+.title {
+  color: #222;
+  font-size: 32px;
+}
+
+.subtitle {
+  color: #444;
+  font-size: 16px;
+}
+
+/** HELPER CLASSEs
+ *
+ * text color
+ */
+.main-text-color {
+  color: #222;
+}
+
+.secondary-text-color {
+  color: #444;
+}
+
+/**
+ * font size
+ */
+.large-text {
+  font-size: 24px;
+}
+
+.regular-text {
+  font-size: 16px;
+}
+
+.subtitle-text {
+  font-size: 12px;
+}
