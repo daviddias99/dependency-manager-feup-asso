@@ -17,7 +17,7 @@ We ended up creating a tool for visualizing the dependencies of software project
 
 **Skills:** Software architecture, design patterns, UML, software design, software documentation
 
-**Grade:** ??/20
+**Grade:** 19/20
 
 ---
 
